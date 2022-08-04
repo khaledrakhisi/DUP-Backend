@@ -21,7 +21,6 @@ export const saveChanges = async (
     /**
      * In here the changes must be saved on MySQL database. But I run out of time.
      * Instead this will update the array anyway!!
-     *
      * Important!!: I have to refresh my knowlodge on MySQL as recently focuced on frontend.
      */
 
